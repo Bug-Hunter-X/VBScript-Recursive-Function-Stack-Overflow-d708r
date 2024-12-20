@@ -1,0 +1,1 @@
+This repository contains a VBScript example demonstrating a stack overflow error in a recursive function and its solution.  The original code attempts to calculate a factorial recursively without handling large inputs, leading to a stack overflow. The solution shows how to prevent stack overflow errors in recursive functions by using iteration.
